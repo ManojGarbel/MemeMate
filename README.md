@@ -1,4 +1,4 @@
-# MemeMate 😎❤️
+# MemeMate 😎❤️ 
 
 A fun, meme-powered social dating mock‑app built with Next.js and organized in a modern modular structure.
 
